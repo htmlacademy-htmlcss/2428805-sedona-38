@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/38/user/2428805).
-* Наставник: `Неизвестно`.
+* Студент: [Дарья Горшкова](https://up.htmlacademy.ru/htmlcss/38/user/2428805).
+* Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422)
 
 ---
 
